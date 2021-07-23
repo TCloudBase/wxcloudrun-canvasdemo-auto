@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="image">
+  <image show-menu-by-longpress="{{true}}" src="data:image/png;base64,{{imagePath}}"></image>
+</view>
+<input bindinput="oninput" placeholder="在这里写点内容吧！"/>
+<button class="userinfo-button" bindtap="init" type="primary">生成二维码</button>
