@@ -1,7 +1,7 @@
 {
 	"containerPort": 8080,
 	"dockerfilePath": "Dockerfile",
-	"buildDir": "werunserver",
+	"buildDir": "",
 	"minNum": 0,
 	"maxNum": 10,
 	"cpu": 0.5,
