@@ -12,7 +12,7 @@
 
 ## 部署流程
 
-- 一键部署方式：点击[此链接](https://cloud.weixin.qq.com/cloudrun/onekey?template=canvasdemo)跳转至控制台安装【敬请期待】
+- 一键部署方式：点击[此链接](https://cloud.weixin.qq.com/cloudrun/onekey?template=canvasdemo)跳转至控制台安装
 
 - 手动部署方式：下载此仓库代码，直接在控制台通过代码库创建版本即可完成
 
