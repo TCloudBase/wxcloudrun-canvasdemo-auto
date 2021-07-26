@@ -1,6 +1,6 @@
 # 微信云托管｜Canvas二维码模版
 
-[<img src="https://main.qcloudimg.com/raw/ffa781b63fdead4cac23470ad2eeb552.png" width="220px">]()
+[<img src="https://main.qcloudimg.com/raw/ffa781b63fdead4cac23470ad2eeb552.png" width="220px">](https://cloud.weixin.qq.com/cloudrun/onekey?template=canvasdemo)
 
 ## 项目介绍
 
@@ -12,7 +12,7 @@
 
 ## 部署流程
 
-- 一键部署方式：点击此链接跳转至控制台安装【敬请期待】
+- 一键部署方式：点击[此链接](https://cloud.weixin.qq.com/cloudrun/onekey?template=canvasdemo)跳转至控制台安装【敬请期待】
 
 - 手动部署方式：下载此仓库代码，直接在控制台通过代码库创建版本即可完成
 
